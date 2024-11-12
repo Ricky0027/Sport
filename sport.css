@@ -1,0 +1,27 @@
+body{
+    background: url(sport.jpg) no-repeat black !important;
+    
+
+}
+li{
+    color:white;
+}
+h1{
+    color:white !important;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+form{
+    color:red;
+}
+label{
+    color:chartreuse;
+}
+p{
+    color:white;
+    font-size: 30px;
+}
+a{
+    font-size: 20px;
+}
